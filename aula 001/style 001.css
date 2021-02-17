@@ -1,0 +1,61 @@
+body {
+    background: gray;
+    margin: 100px;
+    border: 50px solid chartreuse;
+    padding: 50px;
+}
+
+.fundoElement1 {
+    border-radius: 50%;
+    background: khaki;
+    padding: 10px;
+    border: 10px solid black;
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: 5;
+}
+
+@keyframes example {
+    0% {
+        background-color: red;
+        left: 0px;
+    }
+    33% {
+        background-color: red;
+        left: 200px;
+        top: 50px;
+    }
+    66% {
+        background-color: rgb(126, 1, 143);
+        left: -200px;
+        top: -50px;
+    }
+    100% {
+        background-color: rgb(251, 255, 0);
+        left: 0px;
+    }
+}
+
+.fundoElement2 {
+    background: khaki;
+    padding: 150px;
+    border: 2px solid rgb(255, 0, 0);
+}
+
+.figuraCircle {
+    border-radius: 100%;
+    border: 10px solid rgb(21, 84, 167);
+}
+
+#title {
+    color: blue;
+}
+
+.idTwo {
+    color: rgb(43, 255, 0);
+}
+
+.idTree {
+    color: rgb(255, 17, 0);
+}
