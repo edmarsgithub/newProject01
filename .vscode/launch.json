@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open aula 001.html",
-            "file": "c:\\Users\\edmar\\Documents\\GitHub\\newProject01\\aula 001.html"
+            "name": "Open aula 003.html",
+            "file": "c:\\Users\\edmar\\Documents\\GitHub\\newProject01\\aula 003\\aula 003.html"
         }
     ]
 }

@@ -1,0 +1,23 @@
+body {
+    /*background: rgb(180, 255, 180);*/
+    /*width: 200px;*
+    margin: 0 auto;
+    /*background-color: #FF9500;*/
+    background-image: url("Figuras/aguas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*border: 1px solid rgb(255, 238, 1);*/
+}
+
+.verse {
+    /*border: rgb(255, 0, 0) solid 5px;*/
+    border-radius: 10px;
+    margin: auto;
+    width: 800px;
+    margin-top: 110px;
+    /*margin: auto;
+    */
+    font: italic small-caps 30px/35px Georgia, serif;
+    color: rgb(255, 254, 254);
+    text-shadow: black;
+}
